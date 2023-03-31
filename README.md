@@ -2,6 +2,9 @@
 City Services for QB-Core Framework
 Preview { https://streamable.com/ylxqg0 }
 
+## NYC MAPS
+- [CRM DEVELOPMENT](https://discord.gg/crm)  
+- [Hell Script Shop](https://discord.gg/WKNRDtF9jp) 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [PolyZone](https://github.com/mkafrin/PolyZone) - For Interaction (DrawText and qb-target both require this)
